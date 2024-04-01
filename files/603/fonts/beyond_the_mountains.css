@@ -1,0 +1,11 @@
+/* Webfont: BeyondTheMountains */@font-face {
+    font-family: 'BeyondTheMountains';
+    src: url('webfonts/beyond_the_mountains.eot'); /* IE9 Compat Modes */
+    src: url('webfonts/beyond_the_mountainsd41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('webfonts/beyond_the_mountains.woff') format('woff'), /* Modern Browsers */
+         url('webfonts/beyond_the_mountains.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
